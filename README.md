@@ -1,4 +1,4 @@
-# UFOs
+# UFO Sightings Search Tool
 
 *Prepared for Dana - 2021MAR14*
 
