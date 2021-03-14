@@ -4,7 +4,7 @@
 
 ## Overview of Project
 
-* The aim of this project is to develop a practical and easy-to-use web tool that allows the user to refine their UFO sighting search based on date, place (city, state, country) and/or type. 
+The aim of this project is to develop a practical and easy-to-use web tool that allows the user to refine their UFO sighting search based on date, place (city, state, country) and/or type. 
 
 ## Results
 
