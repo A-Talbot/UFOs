@@ -23,7 +23,7 @@ The following data was entered and obtained 2 results:
 * Date: **1/11/2010**
 * State: **fl**
 
-![Example](static/images/example.png)
+![Example](static/images/Example.png)
 
 ## Summary
 
